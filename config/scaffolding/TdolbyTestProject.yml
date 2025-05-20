@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TdolbyTestProject
+  gitServerName: source
+  gitUrl: https://github.com/trevor-dolby-at-ibm-com
+  gitUsername: trevor-dolby-at-ibm-com
+  gitBranch: main
